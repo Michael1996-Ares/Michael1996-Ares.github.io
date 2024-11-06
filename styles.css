@@ -1,0 +1,20 @@
+ul {
+    list-style-type: none;
+}
+
+.CARNE{
+    background-color: lightcoral;
+}
+.FORMAGGI{
+    background-color:lightyellow;
+}
+.VERDURE{
+    background-color: lightgreen;
+}
+
+h1{
+    font-family: sans-serif;
+}
+.istruzioni {
+    font-style: italic;
+}
